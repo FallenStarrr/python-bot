@@ -1,0 +1,2 @@
+TOKEN = '1646306243:AAFstCr6LyxR7dcYpw1iHGhF_Ojby-UWHqI'
+GROUP_ID = ''
